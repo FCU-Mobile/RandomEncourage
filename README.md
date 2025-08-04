@@ -1,4 +1,4 @@
-盎# 隨機鼓勵語 App (RandomEncourage)
+# 隨機鼓勵語 App (RandomEncourage)
 
 一款簡潔美觀的 iOS 鼓勵語應用程式，當你需要正能量時，只需輕點一下就能獲得溫暖的鼓勵話語。
 
